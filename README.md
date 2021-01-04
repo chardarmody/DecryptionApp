@@ -5,7 +5,7 @@ Free, responsive CRUD application starter with NgRx state management, Firebase b
 ________
 
 # Live Preview:
-## https://ng-boilerplate.mdbootstrap.com/
+## https://ist440w-ocr-decryption.firebaseapp.com/
 
 # Technologies used
 
